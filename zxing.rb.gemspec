@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/smparkes/zxing.rb"
   s.rdoc_options = ["--main", "README.rdoc"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.3.6"
+  s.rubygems_version = "2.2.2"
   s.summary = "Ruby interface to zxing.rb"
 
-  s.add_development_dependency("bundler", "~> 1.0")
+  s.add_development_dependency("bundler", "~> 1.5")
 end
